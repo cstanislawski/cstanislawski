@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-Welcome to my GitHub profile!
+# hi there! 👋
 
 ## whoami
 
@@ -8,11 +6,11 @@ My name is Cezary Marek Stanisławski, I'm and a DevOps Engineer with experience
 
 I've graduated with an academic title of 'Bachelor of Engineering in Automatic Control and Robotics', majoring in robotics 🦾 @ [PUT](https://creef.put.poznan.pl/en).
 
-## Skills
+## skills
 
 Proficient in Bash, Python & all the typical devops stuff (docker, k8s, monitoring tools), currently learning Go. For more information go to my LinkedIn profile. In case of questions / offers feel free to contact me via LinkedIn or email.
 
-## Experience
+## experience
 
 - 2023.07 - now - leading DevOps Engineer for [RTB House](https://www.rtbhouse.com/) for the traffic team,
 - 2022.11 - 2023.06 - DevOps Engineer - BMW projects at scale (thousands of pipelines a day) - while @ [Luxoft](https://www.linkedin.com/company/luxoft/),
@@ -21,7 +19,7 @@ Proficient in Bash, Python & all the typical devops stuff (docker, k8s, monitori
 
 You can find more information about me over at my [LinkedIn](https://www.linkedin.com/in/cezary-m-stanislawski)
 
-## Contact
+## contact
 
 🤝 [LinkedIn](https://www.linkedin.com/in/cezary-m-stanislawski)
 
