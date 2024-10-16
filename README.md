@@ -19,7 +19,7 @@ You can find more information about me over at my [LinkedIn](https://www.linkedi
 
 ## education
 
-I've graduated with an academic title of Bachelor of Engineering in Automatic Control and Robotics, majoring in robotics 🦾 @ [PUT](https://creef.put.poznan.pl/en).
+Graduated with a degree of Bachelor of Engineering in Automatic Control and Robotics, majoring in robotics 🦾 @ [PUT](https://creef.put.poznan.pl/en) in 2022
 
 ## contact
 
