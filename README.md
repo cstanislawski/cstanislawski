@@ -2,7 +2,7 @@
 
 ## whoami
 
-My name is Cezary Marek Stanisławski, I'm a DevOps Engineer with experience working with both on-prem & in the clouds (AWS, GCP).
+My name is Cezary Stanisławski, I'm a DevOps Engineer with experience working with both on-prem & in the clouds (AWS, GCP).
 
 ## skills
 
