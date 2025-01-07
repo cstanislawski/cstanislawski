@@ -10,7 +10,7 @@ Kubernetes, Go, Python, Terraform, sh/bash & all the other typical devops stuff 
 
 ## experience
 
-- 2023.07 - present: Leading DevOps Engineer @ [RTB House](https://www.rtbhouse.com/) for the traffic team
+- 2023.07 - present: Leading DevOps Engineer for the traffic team @ [RTB House](https://www.rtbhouse.com/)
 - 2022.11 - 2023.06: DevOps Engineer @ [Luxoft](https://www.linkedin.com/company/luxoft/) - BMW projects at scale (thousands of pipelines a day)
 - 2022.01 - 2022.10: DevOps Engineer @ [Tenesys](https://tenesys.io/en/home/) - Focused on e-rental mobile app with dozens of microservices
 - 2021.03 - 2021.12: Support Engineer @ [XTM International](https://www.linkedin.com/company/xtm-international/)
